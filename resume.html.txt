@@ -1,0 +1,62 @@
+<html>
+<body>
+<head>
+<h1 align="center">
+<b><u>Resume</u></b></h1>
+<img src="https://vishnu.edu.in/images/logobig.jpg" align="right"  height="100" width="100"><br>
+<h1 >
+<b><i>About Me</i></b></h1><hr>
+</hr>
+</head>
+<p><b>NAME :</b>PANKAJ KUMAR YADAV<br>
+<b>AGE:</b>20<br>
+<b>COURSE:</b>B.Tech<br>
+<b>BRANCH :</b>AI&DS<br>
+<b>EMAIL:</b> <a href="https://www.google.com/"> 
+20pa1a5436@vishnu.edu.in</a><br>
+<b>COLLEGE :</b>Vishnu Institute of Technology<br>
+My name is Pankaj Kumar Yadav.I am currently pursuing B.Tech in VIT. I have mastered python and Java. I am currently learning Data Science using Python. I have checked the job announcement from your company on linkedin. Iam very excited to apply for this job. I noticed that this job can help me to improve my skills in data science.I hope we can work together in harmony.
+</p>
+<hr>
+</hr>
+<h1><b><i>Educational Qualifications</i></b></h1>
+<table border="1px">
+<tr>
+<td><b>Name of Institution</b></td>
+<td><b>Duration of Study</b></td>
+<td><b>Percentage</b></td>
+<td><b>Specialisation</b></td>
+</tr>
+<tr>
+<td>Siddhartha High School</td>
+<td>2006-2016</td>
+<td>95%</td>
+<td>Schooling</td>
+</tr>
+<tr>
+<td>Universal High School</td>
+<td>2016-2018</td>
+<td>100%</td>
+<td>Schooling</td>
+</tr>
+<tr>
+<td>Vijaya Junior College</td>
+<td>2018-2020</td>
+<td>92.8%</td>
+<td>Intermediate</td>
+</tr>
+<tr>
+<td>Vishnu Institute of Technology</td>
+<td>Not Completed</td>
+<td>In Progress</td>
+<td>B.Tech - AI&DS</td>
+</tr>
+</table>
+<h2><b><i>Interests</i></b></h2>
+<ul>
+<li>Manger</li>
+<li>Employee</li>
+<li>Assistant Manager</li>
+</ul>
+</body>
+</html>
